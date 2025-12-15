@@ -47,7 +47,7 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 :::{#hero-heading}
 
-Hi, I’m **Yuqi Sun** 👋  
+Hi, I’m **Yuqi** 👋  
 I received my B.S. in **Medical Laboratory Science** from  
 [Shanghai Jiao Tong University, School of Medicine](https://www.shsmu.edu.cn/yxjsxy/).
 
