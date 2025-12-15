@@ -1,5 +1,5 @@
 ---
-title: "Yuqi Sun （孙雨琪）, B.S."
+title: "Yuqi Sun （孙雨琪）"
 description-meta: "Medical Laboratory Science, Shanghai Jiao Tong University"
 image: "files/images/me.png"
 page-navigation: false
@@ -47,23 +47,14 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 :::{#hero-heading}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+Hi, I'm Yuqi 👋 . I received my B.S. in Medical Laboratory Science from [Shanghai Jiao Tong University，School of Medicine](https://www.shsmu.edu.cn/yxjsxy/).
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
+I'm interested in Human Genetics & Genomics, Neuroscience and Oncology. Currently, I am working with [**Dr. Dongyuan Song**](https://dsong-lab.github.io/) at University of Connecticut Health Center to develop cross-modality models for spatial omics data, and with [**Dr.Jie Zheng**](https://daoshi.shsmu.edu.cn/Pages/TeacherInformationView.aspx?uid=408f4cb5-9ad1-4222-b43a-f93df05ac45d&from=s&pId=100201&tId=) at Shanghai Institute of Metabolic and Endocrine Disease to investigate the genetic and epigenetic mechanism of glucose homeostasis. Previously, I did my undergraduate thesis under the guidance of [**Dr. Yuanquan Song**](https://www.med.upenn.edu/song-lab/) at Children's Hospital of Philadelphia and investigated the cellular and molecular mechanism of pLGG proliferation. 
 
-1. **Star** this repository to bookmark it for future reference.  
-1. **Fork** this repository and rename it to `YourGitHubUserName.github.io`.  
-1. **Update** the `_quarto.yml` file to configure your site’s basic settings.  
-1. **Add or edit content** in the following files and folders:
-   - `/posts/` – posts about publications, news, events  
-   - `teaching.qmd` – teaching information  
-   - `projects.yml` – research or other projects  
-   - `people.qmd` and `/people/` – team or collaborators  
-   - `/files/` - profiles, images, pdfs, and includes 
-1. [**Render and preview**](https://quarto.org/docs/websites/) your site locally.  
-1. [**Publish**](https://quarto.org/docs/publishing/github-pages.html) your site using GitHub Pages (make sure [configuring](https://quarto.org/docs/publishing/images/gh-pages-docs-dir.png) your GitHub repository to publish from the `docs` directory, not the `root` folder). 
-1. **Refine and polish** your content and design as needed.  
-1. ✅ Enjoy your new website!
+I served as a student project leader in the Students' Innovation Training Program from April 2022 to October 2024 and conducted research on genetic epigemiology, particularly Mendelian Randomization and multi-omics integretation, to identfy novel drug targets for complex human disease. Check out our first pub about [**ABO (BGAT) in gestational outcomes**](https://pmc.ncbi.nlm.nih.gov/articles/PMC11126538/) and our second pub about [**the anti-aging potential of glucose-lowering drugs and the underlying epigenetic mechanisms**](https://www.medrxiv.org/content/10.1101/2025.10.13.25337858v1).
+
+🎨 Outside of research, I enjoy creating Comics, Sketching and Chinese Painting!
+🎵 I am also an amateur composer, engaged in electronic and classical music. 
 
 
 ## Education
