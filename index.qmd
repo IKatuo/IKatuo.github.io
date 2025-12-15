@@ -47,19 +47,31 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 :::{#hero-heading}
 
-Hi, I'm Yuqi 👋 . I received my B.S. in Medical Laboratory Science from [Shanghai Jiao Tong University，School of Medicine](https://www.shsmu.edu.cn/yxjsxy/).
+Hi, I’m **Yuqi Sun** 👋  
+I received my B.S. in **Medical Laboratory Science** from  
+[Shanghai Jiao Tong University, School of Medicine](https://www.shsmu.edu.cn/yxjsxy/).
 
-I'm interested in Human Genetics & Genomics, Neuroscience and Oncology. Currently, I am working with [**Dr. Dongyuan Song**](https://dsong-lab.github.io/) at University of Connecticut Health Center to develop cross-modality models for spatial omics data, and with [**Dr.Jie Zheng**](https://daoshi.shsmu.edu.cn/Pages/TeacherInformationView.aspx?uid=408f4cb5-9ad1-4222-b43a-f93df05ac45d&from=s&pId=100201&tId=) at Shanghai Institute of Metabolic and Endocrine Disease to investigate the genetic and epigenetic mechanism of glucose homeostasis. Previously, I did my undergraduate thesis under the guidance of [**Dr. Yuanquan Song**](https://www.med.upenn.edu/song-lab/) at Children's Hospital of Philadelphia and investigated the cellular and molecular mechanism of pLGG proliferation. 
+My research interests lie at the intersection of **human genetics and genomics, neuroscience, and oncology**, with a focus on understanding disease mechanisms through **computational and multi-omics approaches**.
 
-I served as a student project leader in the Students' Innovation Training Program from April 2022 to October 2024 and conducted research on genetic epigemiology, particularly Mendelian Randomization and multi-omics integretation, to identfy novel drug targets for complex human disease. Check out our first pub about [**ABO (BGAT) in gestational outcomes**](https://pmc.ncbi.nlm.nih.gov/articles/PMC11126538/) and our second pub about [**the anti-aging potential of glucose-lowering drugs and the underlying epigenetic mechanisms**](https://www.medrxiv.org/content/10.1101/2025.10.13.25337858v1).
+Currently, I work with  
+- [**Dr. Dongyuan Song**](https://dsong-lab.github.io/) at the **University of Connecticut Health Center**, where I develop **cross-modality models for spatial omics data**, and  
+- [**Dr. Jie Zheng**](https://daoshi.shsmu.edu.cn/Pages/TeacherInformationView.aspx?uid=408f4cb5-9ad1-4222-b43a-f93df05ac45d&from=s&pId=100201&tId=) at the **Shanghai Institute of Metabolic and Endocrine Disease**, investigating the **genetic and epigenetic mechanisms of glucose homeostasis**.
 
-🎨 Outside of research, I enjoy creating Comics, Sketching and Chinese Painting!
-🎵 I am also an amateur composer, engaged in electronic and classical music. 
+Previously, I completed my undergraduate thesis under the supervision of  
+[**Dr. Yuanquan Song**](https://www.med.upenn.edu/song-lab/) at the **Children’s Hospital of Philadelphia**, where I studied the **cellular and molecular mechanisms underlying pediatric low-grade glioma (pLGG) proliferation**.
+
+From April 2022 to October 2024, I served as a student project leader in the **Students’ Innovation Training Program**, conducting research in **genetic epidemiology**, particularly **Mendelian Randomization** and **multi-omics integration**, to identify novel drug targets for complex human diseases.  
+This work led to publications on  
+- [**ABO (BGAT) and gestational outcomes**](https://pmc.ncbi.nlm.nih.gov/articles/PMC11126538/), and  
+- [**the anti-aging potential of glucose-lowering drugs and their epigenetic mechanisms**](https://www.medrxiv.org/content/10.1101/2025.10.13.25337858v1).
+
+🎨 Outside of research, I enjoy **comics, sketching, and traditional Chinese painting**.  
+🎵 I am also an amateur composer, with interests in **electronic and classical music**.
 
 
 ## Education
 
-- B.S. in Medical Laboratory Science, Shanghai Jiao Tong Univerisity (June 2025)
+- B.S. in Medical Laboratory Science, Shanghai Jiao Tong University (June 2025)
 
 :::
 
