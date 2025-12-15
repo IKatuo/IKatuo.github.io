@@ -1,10 +1,10 @@
 ---
-title: "News item"
-description: "About new item"
+title: "SITP initiation"
+description: "Smoothly passed the mid-term check"
 author: "News"
-date: "2024-06-24"
+date: "2023-04-1"
 categories: [news]
-image: "/files/images/placeholder3.JPG"
+image: "/files/images/zhongqi.JPG"
 #css: /custom.css
 #draft: true
 ---
@@ -12,7 +12,7 @@ image: "/files/images/placeholder3.JPG"
 
 ## Summary
 
-About the news
+Secured our first research fellowship! Cheers!
 
 <!--Include social share buttons-->
 
