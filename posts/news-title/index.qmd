@@ -4,7 +4,7 @@ description: "Smoothly passed the mid-term check"
 author: "News"
 date: "2023-04-1"
 categories: [news]
-image: "/files/images/zhongqi.JPG"
+image: "/files/images/zhongqi.png"
 #css: /custom.css
 #draft: true
 ---
