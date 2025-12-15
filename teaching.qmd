@@ -1,67 +1,70 @@
 ---
-title: "Teaching"
-subtitle: "I teach."
+title: "Grants"
+subtitle: "Personal & Group Grants"
 title-block-banner: false
 ---
 
-
-## Class 1
+## The SITP Training Grant
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
+![](files/images/jieti.JPG)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+March 2025
 
-Class 1 introduction.
-
-:::
+Finally Comleted our project! 
 
 :::
 
+:::
 
-## Class 2
+
+## The Overseas Research Fellowship
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
+![](files/images/overseas.png)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+December 2024
 
-Class 2 introduction.
-
-:::
+The First-class Scholarship, awarded by Shanghai Jiao Tong University.
 
 :::
 
+:::
 
-## Class 3
+
+## The Roche University Research Grant
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder3.JPG)
+![](files/images/roche.png)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
+October 2024
 
-Class 3 introduction. 
-
-:::
+The 3rd class Scholarship.
 
 :::
 
+:::
 
+---
+title: "Awards"
+subtitle: "Personal & Group Awards"
+title-block-banner: false
+---
