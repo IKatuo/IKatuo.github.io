@@ -13,39 +13,19 @@ about:
   image-width: 70%
   links:
     - icon: sun
-      text: Lab
-      href: https://www.github.com
-      target: _blank
-    - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
+      text: Github
+      href: https://github.com/IKatuo
       target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:email@gmail.com    
+      href: mailto:ikatuo-s@sjtu.edu.cn    
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: www.linkedin.com/in/ikatuo-s
       target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
     - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
+      href: https://orcid.org/0009-0003-3145-024X
       target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
-      target: _blank
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
-      target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
-#      target: _blank
 
 listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
   - id: recent-posts
@@ -85,13 +65,10 @@ I'm a template that you can fork to build your own website with easy adaptation 
 1. **Refine and polish** your content and design as needed.  
 1. ✅ Enjoy your new website!
 
-## Experience
-
-- Researcher, Univerisity
 
 ## Education
 
-- PhD, Univerisity
+- B.S. in Medical Laboratory Science, Shanghai Jiao Tong Univerisity
 
 :::
 
