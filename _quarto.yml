@@ -3,13 +3,15 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-author-meta: "Dr. Gang He"
+description-meta: "Yuqi Sun — Human Genetics • Computational Biology • Spatial Multi-omics"
+author-meta: "Yuqi Sun"
 
 website:
-  title: "Quarto Academic"
-  image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+website:
+  title: "Yuqi Sun"
+  description: "Human Genetics • Computational Biology • Spatial Multi-omics"
+  image: "images/me.png"   # 可选：要就写你自己的图
+
  
   navbar:
     background: light  # You can change the background color here
@@ -27,11 +29,11 @@ website:
             href: contact.qmd             
       - text: Research
         menu:
-          - text: List of Publications
-            href: publications.qmd
-          - text: Selected Papers
+          - text: Projects
+            href: projects.qmd
+          - text: Publications
             href: posts.qmd#category=paper
-          - text: Grants
+          - text: Grants & Awards
             href: projects.qmd                                
       - text: Teaching # Comment the Teaching part out to remove the Teaching page
         href: teaching.qmd
