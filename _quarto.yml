@@ -9,13 +9,13 @@ author-meta: "Yuqi Sun"
 website:
   title: "Yuqi Sun"
   description: "Human Genetics • Computational Biology • Spatial Multi-omics"
-  image: "images/me.png"   # 可选：要就写你自己的图
+  image: "images/me.png"   
 
  
   navbar:
-    background: light  # You can change the background color here
+    background: light  
 
-    left:   # You can comment out all navigation items here if you just like to keep the index page only
+    left:   
 #      - text: Home
 #        href: index.qmd
       - text: About
