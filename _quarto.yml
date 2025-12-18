@@ -43,7 +43,7 @@ website:
 
     right: 
       - text: CV
-        href: files/Yuqi Sun CV 12.1.pdf
+        href: files/CV.pdf
       - icon: github
         href: https://github.com/IKatuo
         target: _blank
@@ -55,7 +55,7 @@ website:
     center: "Build on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template)"
     right:  
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/IKatuo
         target: _blank
   
   search:
@@ -66,7 +66,7 @@ website:
 
   draft-mode: unlinked
   
-  repo-url: https://github.com/drganghe/quarto-academic-website-template
+  repo-url: https://IKatuo.github.io
 #  repo-actions: [edit, issue, source]
   
   open-graph: true
@@ -74,7 +74,7 @@ website:
   twitter-card: true 
 #  card-style: summary      
   
-  site-url: "https://drganghe.github.io/quarto-academic-website-template"
+  site-url: "https://IKatuo.github.io"
   
   google-analytics:
     tracking-id: ""  # Please delete or replace with your own tracking ID
