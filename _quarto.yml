@@ -19,14 +19,14 @@ website:
 #      - text: Home
 #        href: index.qmd
       - text: About
-#        menu:
-#          - text: News
-#            href: posts.qmd#category=news    
-#          - text: Contact
-#            href: contact.qmd  
+        menu:
+          - text: News
+            href: posts.qmd#category=news    
+          - text: Contact
+            href: contact.qmd  
 
       - text: Research
-    
+        menu:
           - text: Projects
             href: projects.qmd
             
@@ -36,17 +36,10 @@ website:
             
       - text: Grants & Awards
             href: projects.qmd#category=grant 
-            
-     # - text: Teaching # Comment the Teaching part out to remove the Teaching page
-     #   href: teaching.qmd
-     # - text: Outreach
-     #   menu:
            
-        - text: Presentations
+      - text: Presentations
           href: posts.qmd#category=presentation 
           
-     # - text: Group   # Comment the Group part out to remove the Group page
-     #   href: people.qmd
 
     right: 
       - text: CV
@@ -54,12 +47,6 @@ website:
       - icon: github
         href: https://github.com/IKatuo
         target: _blank
-     # - text: "{{< fa brands bluesky >}}"
-     #   href: https://bsky.app
-     #   target: _blank      
-     # - icon: rss
-     #   href: posts.xml
-     #   target: _blank
   
   page-navigation: true
   
@@ -70,12 +57,6 @@ website:
       - icon: github
         href: https://github.com/drganghe/quarto-academic-website-template
         target: _blank
-     # - text: "{{< fa brands bluesky >}}" 
-     #   href: https://bsky.app
-     #   target: _blank
-     # - icon: rss
-     #   href: posts.xml
-     #   target: _blank  
   
   search:
     location: navbar
