@@ -19,25 +19,32 @@ website:
 #      - text: Home
 #        href: index.qmd
       - text: About
-        menu:
-          - text: News
-            href: posts.qmd#category=news    
-          - text: Contact
-            href: contact.qmd             
+#        menu:
+#          - text: News
+#            href: posts.qmd#category=news    
+#          - text: Contact
+#            href: contact.qmd  
+
       - text: Research
-        menu:
+    
           - text: Projects
             href: projects.qmd
-          - text: Publications
-            href: posts.qmd#category=paper
-          - text: Grants & Awards
-            href: projects.qmd#category=grant                                
+            
+      - text: Publications
+        href: posts.qmd#category=paper
+       
+            
+      - text: Grants & Awards
+            href: projects.qmd#category=grant 
+            
      # - text: Teaching # Comment the Teaching part out to remove the Teaching page
      #   href: teaching.qmd
-      - text: Outreach
-        menu:        
+     # - text: Outreach
+     #   menu:
+           
         - text: Presentations
-          href: posts.qmd#category=presentation                   
+          href: posts.qmd#category=presentation 
+          
      # - text: Group   # Comment the Group part out to remove the Group page
      #   href: people.qmd
 
@@ -47,28 +54,28 @@ website:
       - icon: github
         href: https://github.com/IKatuo
         target: _blank
-      - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app
-        target: _blank      
-      - icon: rss
-        href: posts.xml
-        target: _blank
+     # - text: "{{< fa brands bluesky >}}"
+     #   href: https://bsky.app
+     #   target: _blank      
+     # - icon: rss
+     #   href: posts.xml
+     #   target: _blank
   
   page-navigation: true
   
   page-footer: 
-    left: "[Your Name](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
+    left: "[Yuqi Sun](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: "Build on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template)"
     right:  
       - icon: github
         href: https://github.com/drganghe/quarto-academic-website-template
         target: _blank
-      - text: "{{< fa brands bluesky >}}" 
-        href: https://bsky.app
-        target: _blank
-      - icon: rss
-        href: posts.xml
-        target: _blank  
+     # - text: "{{< fa brands bluesky >}}" 
+     #   href: https://bsky.app
+     #   target: _blank
+     # - icon: rss
+     #   href: posts.xml
+     #   target: _blank  
   
   search:
     location: navbar
