@@ -31,21 +31,21 @@ website:
           - text: Publications
             href: posts.qmd#category=paper
           - text: Grants & Awards
-            href: projects.qmd                                
-      - text: Teaching # Comment the Teaching part out to remove the Teaching page
-        href: teaching.qmd
+            href: projects.qmd#category=grant                                
+     # - text: Teaching # Comment the Teaching part out to remove the Teaching page
+     #   href: teaching.qmd
       - text: Outreach
         menu:        
         - text: Presentations
           href: posts.qmd#category=presentation                   
-      - text: Group   # Comment the Group part out to remove the Group page
-        href: people.qmd
+     # - text: Group   # Comment the Group part out to remove the Group page
+     #   href: people.qmd
 
     right: 
       - text: CV
-        href: files/nsf-biosketch.pdf
+        href: files/CV.pdf
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/IKatuo
         target: _blank
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app
