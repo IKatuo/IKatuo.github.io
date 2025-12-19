@@ -35,10 +35,10 @@ website:
        
             
       - text: Grants & Awards
-            href: projects.qmd#category=grant 
+        href: projects.qmd#category=grant 
            
       - text: Presentations
-          href: posts.qmd#category=presentation 
+        href: posts.qmd#category=presentation 
           
 
     right: 
